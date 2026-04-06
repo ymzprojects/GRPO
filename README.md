@@ -37,8 +37,7 @@ Modélisation complète des mécaniques du puzzle 3x3.
 
 | Fichier | Description |
 | :--- | :--- |
-| **`grpo_taquin_resolution.ipynb`** | **Notebook Principal.** Contient les deux phases d'entraînement (Exploration vs Guidage), les visualisations et l'évaluation finale. |
-| **`grpo.py`** | **Script Modulaire.** Regroupe les classes de modèles, le tampon de données (buffer) et la fonction de coût GRPO. |
+| **`grpo_project.ipynb`** | **Notebook Principal.** Contient les deux phases d'entraînement (Exploration vs Guidage), les visualisations et l'évaluation finale. |
 
 ---
 
